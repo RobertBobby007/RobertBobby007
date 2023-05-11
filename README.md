@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobertBobby007
 - 👀 I’m interested in FiveM and Tech
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Fivem Server
+- 🌱 I’m currently learning C#
 - 📫 How to reach me on email: knoblochrobert25@gmail.com
 
 <!---
