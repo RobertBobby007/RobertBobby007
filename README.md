@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertBobby007
-- 👀 I’m interested in FiveM and Tech
-- 🌱 I’m currently learning C#
-- 📫 How to reach me on email: knoblochrobert25@gmail.com
+- 👀 I’m interested in and C# & HTML, tech and AI
+- 🌱 I’m currently learning C# & HTML
+- 📫 How to reach me on email: knobloch.r@post.cz
 
 <!---
 RobertBobby007/RobertBobby007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
