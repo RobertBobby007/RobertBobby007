@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobertBobby007
-- 👀 I’m interested in and C# & HTML, tech and AI
+- 👀 I’m interested in and C#, tech and AI
 - 🌱 I’m currently learning C# & HTML
 - 📫 How to reach me on email: knobloch.r@post.cz
 
